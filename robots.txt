@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ngurecto.github.io/sitemap.html.gz
+Sitemap: https://ngurecto.github.io/app/sitemap.html.gz
+Sitemap: https://ngurecto.github.io/assets/sitemap.html.gz
+Sitemap: https://ngurecto.github.io/css/sitemap.html.gz
+Sitemap: https://ngurecto.github.io/includes/sitemap.html.gz
+Sitemap: https://ngurecto.github.io/item/sitemap.html.gz
+Sitemap: https://ngurecto.github.io/src/sitemap.html.gz
